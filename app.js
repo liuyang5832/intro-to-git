@@ -1,2 +1,1 @@
-console.log("THIS IS MY COMPLEX APP!");
-console.log("THIS LINE!!");
+console.loge("THIS IS MY COMPLEX APP!");
